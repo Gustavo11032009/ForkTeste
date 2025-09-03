@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 
 namespace CA0209
 {
-    internal class Cliente :Pessoa
+    internal class Estagiário
     {
-        private int id;
-        private string produto;
-        private int quantidade;
-
+        private string Bolsa_auxílio;
 
     }
 }

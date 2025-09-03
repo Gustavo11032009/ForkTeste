@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace CA0209
 {
-    internal class Cliente :Pessoa
+    internal class Gerente
     {
-        private int id;
-        private string produto;
-        private int quantidade;
+        private string permicoes;
 
 
     }
