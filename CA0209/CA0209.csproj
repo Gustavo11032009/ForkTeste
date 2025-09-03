@@ -44,10 +44,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Cliente.cs" />
+<<<<<<< HEAD
     <Compile Include="Estagiário.cs" />
     <Compile Include="Funcionario.cs" />
     <Compile Include="Gerente.cs" />
     <Compile Include="orientador.cs" />
+=======
+    <Compile Include="Funcionario.cs" />
+>>>>>>> 48b56a6d752f807431e0adc4cb6edb0afdac41d8
     <Compile Include="Pessoa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
